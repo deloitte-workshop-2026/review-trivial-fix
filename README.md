@@ -1,2 +1,3 @@
-# review-trivial-fix
-Trivial typo fix — auto-approve candidate
+# Review Trivial Fix
+
+This service receives incoming webhooks and processes them.
